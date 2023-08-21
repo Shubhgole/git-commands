@@ -1,0 +1,16 @@
+git status
+git add
+git commit
+git restore
+git log
+git log --oneline
+git log --oneline --pretty
+git remote -v
+git remote set-url --add
+git remote set-url --delete
+git checkout
+git checkout -b
+git push
+git pull
+git fetch
+
