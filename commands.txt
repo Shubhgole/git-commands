@@ -15,4 +15,3 @@ git pull
 git fetch
 git config --global user.name ""
 git config --global user.email ""
-git remote add origin
